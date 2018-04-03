@@ -1,0 +1,17 @@
+{
+    "name": "clr-text",
+    "version": "0.0.1",
+    "description": "Clive Lego Rebotics additional support for text",
+    "license": "MIT",
+    "dependencies": {
+        "circuit-playground": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false
+}
